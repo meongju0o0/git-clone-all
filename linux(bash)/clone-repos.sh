@@ -19,7 +19,6 @@ for /f "delims=" %%i in ('curl -s "https://api.github.com/users/%USERNAME%/repos
     )
 )
 
-REM 페이지 수를 증가시키고 다음 페이지가 있는지 확인합니다.
 set /a PAGE=%PAGE%+1
 curl -I -s "https://api.github.com/users/%USERNAME%/repos?page=%PAGE%&per_page=100" | find "HTTP/1.1 200" > nul
 if %errorlevel%==0 goto loop
