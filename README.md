@@ -29,5 +29,5 @@
 2. install jq
 3. install curl
 4. install git
-5. chomod +x clone-repos.sh
+5. chmod +x clone-repos.sh
 6. run clone-repos.sh
