@@ -33,3 +33,6 @@
 5. chmod +x clone-repos.sh
 6. modify username at shell script file
 7. run clone-repos.sh
+
+#### Licnese
+meongju0o0 uses MIT License.
