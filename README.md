@@ -22,7 +22,8 @@
     ```powershell
     choco install curl
     ```
-4. run clone-repos.bat at your directory
+4. modify username at batch script file
+5. run clone-repos.bat at your directory
 
 ### Linux, MacOS
 1. open termianl
@@ -30,4 +31,5 @@
 3. install curl
 4. install git
 5. chmod +x clone-repos.sh
-6. run clone-repos.sh
+6. modify username at shell script file
+7. run clone-repos.sh
