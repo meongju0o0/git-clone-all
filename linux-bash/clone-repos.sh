@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 USERNAME="meongju0o0"
 PAGE=1
