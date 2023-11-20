@@ -1,7 +1,7 @@
 # Git Clone All
 
 ## Clone your whole repository
-
+### Only public repository is available
 ### Windows
 1. install choco
     - open powershell as a administrator admission
