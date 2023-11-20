@@ -34,5 +34,5 @@
 6. modify username at shell script file
 7. run clone-repos.sh
 
-#### Licnese
-meongju0o0 uses MIT License.
+### Licnese
+© 2023 meongju0o0 uses MIT License.
