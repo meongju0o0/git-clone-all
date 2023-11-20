@@ -2,28 +2,12 @@
 
 ## Clone your whole repository
 ### Only public repository is available
+
 ### Windows
-1. install choco
-    - open powershell as a administrator admission
-    - enter the following command
-    ```powershell
-    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-    ```
-    - *choco installation docs: [https://chocolatey.org/install](https://chocolatey.org/install)*
-2. install jq
-    - open powershell
-    - enter the following command
-    ```powershell
-    choco install jq
-    ```
-3. install curl
-    - open powershell
-    - enter the following command
-    ```powershell
-    choco install curl
-    ```
-4. modify username at batch script file
-5. run clone-repos.bat at your directory
+1. Download release
+latest: https://github.com/meongju0o0/git-clone-all/releases/download/cmd/clone-repos.zip
+2. unzip "clone-repos.zip"
+3. run "exec.exe" as administrator admission
 
 ### Linux, MacOS
 1. open termianl
