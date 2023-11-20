@@ -1,1 +1,7 @@
+/windows-cmd/release/exec/.vs
+/windows-cmd/release/exec/exec/x64
+/windows-cmd/release/exec/exec/exec.vcxproj
+/windows-cmd/release/exec/exec/exec.vcxproj.filters
+/windows-cmd/release/exec/exec/exec.vcxproj.user
+/windows-cmd/release/exec/x64/*
 .DS_Store
