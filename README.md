@@ -5,7 +5,7 @@
 
 ### Windows
 1. Download release
-- latest: https://github.com/meongju0o0/git-clone-all/releases/download/cmd/clone-repos.zip
+    - latest: https://github.com/meongju0o0/git-clone-all/releases/download/cmd/clone-repos.zip
 2. unzip "clone-repos.zip"
 3. run "exec.exe" as administrator admission
 
