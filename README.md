@@ -1,6 +1,6 @@
 # Git Clone All
 
-## Clone your whole repository
+## Clone & Pull your whole repository
 ### Only public repository is available
 
 ### Windows
