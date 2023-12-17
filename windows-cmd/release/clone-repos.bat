@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-set USERNAME=meongju0o0
+set USERNAME=%1
 set PAGE=1
 
 :loop
