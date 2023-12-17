@@ -5,4 +5,8 @@
 /windows-cmd/release/exec/exec/exec.vcxproj.user
 /windows-cmd/release/exec/x64
 /windows-cmd/release/exec/exec.sln
+/windows-cmd/release/pkg-install.ps1
+/windows-cmd/release/clone-repos.bat
+/windows-cmd/release/clone-repos.zip
+/windows-cmd/release/exec.exe
 .DS_Store
